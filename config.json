@@ -1,0 +1,27 @@
+{
+  "shopName": "Bay Ridge Copy Center",
+  "tagline": "Copies and printing on 5th Avenue in Bay Ridge",
+  "phone": "(718) 238-0711",
+  "address": "7504 5th Ave, Brooklyn, NY 11209",
+  "hours": "Call or visit for hours",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Copies & printing",
+      "description": "Color and black-and-white copies, documents, and everyday print jobs."
+    },
+    {
+      "name": "Business printing",
+      "description": "Flyers, forms, and small business print needs."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by — hours by phone."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "bay-ridge-copy-center-br",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
