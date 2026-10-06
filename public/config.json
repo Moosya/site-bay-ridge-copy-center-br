@@ -4,7 +4,7 @@
   "phone": "(718) 238-0711",
   "address": "7504 5th Ave, Brooklyn, NY 11209",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Copies & printing",
